@@ -133,7 +133,7 @@ while(score < passingScore){
 */
 
 //CODE HERE
-changeMyMind = true
+let changeMyMind = true
 
 if(Boolean(changeMyMind)){
   changeMyMind = false
